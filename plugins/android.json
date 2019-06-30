@@ -25,7 +25,7 @@
                     ],
                     "/manifest/application": [
                         {
-                            "xml": "<activity android:name=\"com.keyes.youtube.OpenYouTubePlayerActivity\" android:screenOrientation=\"landscape\" />",
+                            "xml": "<activity android:name=\"com.keyes.youtube.OpenYouTubePlayerActivity\" android:screenOrientation=\"portrait\" />",
                             "count": 1
                         }
                     ]
